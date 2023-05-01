@@ -4,7 +4,7 @@ export const datafile = [
         name: "KMDB (Kanhaiya's Movie Database)",
         link: "https://kmdb-cx58.onrender.com/",
         category: 'projects',
-        imgLnk: 'src/assets/images/db.png',
+        imgLnk: './assets/images/db.png',
         description: "Discover your favorite movies with ease on our IMDb clone website, powered by Node.js, Express.js, and MongoDB. ",
     },
     {
