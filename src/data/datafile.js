@@ -32,7 +32,7 @@ export const datafile = [
         link: "https://lpuin-my.sharepoint.com/personal/kanhaiya_11901627_lpu_in/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fkanhaiya%5F11901627%5Flpu%5Fin%2FDocuments%2FCV%2FKanhaiya%20Verma%2Epdf",
         category: 'social',
         imgLnk: "./assets/images/resume.png",
-        description: "9675194059, 8279831348",
+        description: "Download CV",
     },
     {
         name: "Linkedin",
