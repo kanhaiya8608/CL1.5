@@ -31,7 +31,7 @@ export const datafile = [
         name: "Resume",
         link: "tel:+919675194059",
         category: 'social',
-        imgLnk: "https://lpuin-my.sharepoint.com/personal/kanhaiya_11901627_lpu_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkanhaiya_11901627_lpu_in%2FDocuments%2FCV%2FKanhaiya%20Verma%2Epdf&parent=%2Fpersonal%2Fkanhaiya_11901627_lpu_in%2FDocuments%2FCV",
+        imgLnk: "https://lpuin-my.sharepoint.com/:b:/g/personal/kanhaiya_11901627_lpu_in/EXiYpkSlE45FsRr4pD4_bUoB63knernJu0hOn5cXcmxqfA?e=SxyJlG",
         description: "9675194059, 8279831348",
     },
     {
