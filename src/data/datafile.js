@@ -29,7 +29,7 @@ export const datafile = [
     },
     {
         name: "Resume",
-        link: "https://lpuin-my.sharepoint.com/:b:/g/personal/kanhaiya_11901627_lpu_in/EXiYpkSlE45FsRr4pD4_bUoB63knernJu0hOn5cXcmxqfA?e=SxyJlG",
+        link: "https://lpuin-my.sharepoint.com/personal/kanhaiya_11901627_lpu_in/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fkanhaiya%5F11901627%5Flpu%5Fin%2FDocuments%2FCV%2FKanhaiya%20Verma%2Epdf",
         category: 'social',
         imgLnk: "./assets/images/resume.png",
         description: "9675194059, 8279831348",
