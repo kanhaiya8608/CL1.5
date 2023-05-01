@@ -51,7 +51,7 @@ export const datafile = [
     },
     {
         name: "Phone",
-        link: "/",
+        link: "tel:+91675194059",
         category: 'social',
         imgLnk: "./assets/images/phone.png",
         description: "9675194059, 8279831348",
