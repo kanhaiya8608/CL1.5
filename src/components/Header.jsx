@@ -7,7 +7,7 @@ function Header() {
         <div className='m-6 pt-10 flex flex-col gap-y-12 md:pt-20 select-none'>
             <img src="./assets/images/profile.jpg" alt="" width='80px' className='rounded-full' />
             <h1 className=' hud text-3xl font-medium md:text-5xl'>
-                <span className='text_gr'>{'<h1>'}</span>
+
 
                 :👋: I'm <RadialTextGradient
                     shape={"circle"}
@@ -44,7 +44,7 @@ function Header() {
                     >
                     stunning designs.
                 </RadialTextGradient>
-                <span className='text_gr'>{'</h1>'}</span>
+
 
             </h1>
         </div>
