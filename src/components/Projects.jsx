@@ -1,5 +1,5 @@
 import React from 'react'
-import { datafile } from '../data/datafile';
+import { datafile } from '../data/datafile.js';
 const Projects = () => {
     return (
         <div className='m-6 pt-10'>
