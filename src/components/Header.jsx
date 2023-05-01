@@ -1,8 +1,6 @@
 import React from 'react'
 import {
-    LinearTextGradient,
     RadialTextGradient,
-    ConicTextGradient,
 } from "react-text-gradients-and-animations";
 function Header() {
     return (
