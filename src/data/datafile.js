@@ -29,9 +29,9 @@ export const datafile = [
     },
     {
         name: "Resume",
-        link: "tel:+919675194059",
+        link: "https://lpuin-my.sharepoint.com/:b:/g/personal/kanhaiya_11901627_lpu_in/EXiYpkSlE45FsRr4pD4_bUoB63knernJu0hOn5cXcmxqfA?e=SxyJlG",
         category: 'social',
-        imgLnk: "https://lpuin-my.sharepoint.com/:b:/g/personal/kanhaiya_11901627_lpu_in/EXiYpkSlE45FsRr4pD4_bUoB63knernJu0hOn5cXcmxqfA?e=SxyJlG",
+        imgLnk: "./assets/images/profile.jpg",
         description: "9675194059, 8279831348",
     },
     {
