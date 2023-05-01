@@ -21,6 +21,13 @@ export const datafile = [
         description: "Revamped property management site with modern design and Laravel, Bootstrap4, and responsive design technologies. ",
     },
     {
+        name: "Portfolio 2.0",
+        link: "/",
+        category: 'projects',
+        imgLnk: './assets/images/db.png',
+        description: "Coming Soon",
+    },
+    {
         name: "Linkedin",
         link: "https://www.linkedin.com/in/kanhaiyaverma/",
         category: 'social',
