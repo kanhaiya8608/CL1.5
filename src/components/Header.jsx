@@ -9,7 +9,7 @@ function Header() {
             <h1 className=' hud text-3xl font-medium md:text-5xl'>
 
 
-                :👋: I'm <RadialTextGradient
+                👋 I'm <RadialTextGradient
                     shape={"circle"}
                     position={"top"}
                     colors={["#9f1239", "#facc15"]}
