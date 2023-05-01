@@ -28,6 +28,13 @@ export const datafile = [
         description: "Coming Soon",
     },
     {
+        name: "Resume",
+        link: "tel:+919675194059",
+        category: 'social',
+        imgLnk: "https://lpuin-my.sharepoint.com/personal/kanhaiya_11901627_lpu_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkanhaiya_11901627_lpu_in%2FDocuments%2FCV%2FKanhaiya%20Verma%2Epdf&parent=%2Fpersonal%2Fkanhaiya_11901627_lpu_in%2FDocuments%2FCV",
+        description: "9675194059, 8279831348",
+    },
+    {
         name: "Linkedin",
         link: "https://www.linkedin.com/in/kanhaiyaverma/",
         category: 'social',
@@ -51,10 +58,11 @@ export const datafile = [
     },
     {
         name: "Phone",
-        link: "tel:+91675194059",
+        link: "tel:+919675194059",
         category: 'social',
         imgLnk: "./assets/images/phone.png",
         description: "9675194059, 8279831348",
     },
+
 
 ];
