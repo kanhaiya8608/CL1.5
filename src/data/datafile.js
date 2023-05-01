@@ -24,7 +24,7 @@ export const datafile = [
         name: "Portfolio 2.0",
         link: "/",
         category: 'projects',
-        imgLnk: './assets/images/db.png',
+        imgLnk: './assets/images/obito.png',
         description: "Coming Soon",
     },
     {
