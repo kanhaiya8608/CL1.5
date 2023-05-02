@@ -8,7 +8,7 @@ https://kanhaiya-five.vercel.app/
 
 ## Screenshots
 
-![App Screenshot](https://github.com/kanhaiya8608/CL1.5/blob/main/Screenshot/Kanhaiya%20Verma.png?raw=true)
+ <img alt="Logo" src="https://github.com/kanhaiya8608/CL1.5/blob/main/Screenshot/Kanhaiya%20Verma.png?raw=true" width="100" />
 
 
 ## Tech Stack
@@ -114,4 +114,4 @@ Here are some resources used in this project.
 
 [DavidhU](https://www.davidhu.io/react-spinners/)
 
-[Tailwind]([NPMJS](https://www.npmjs.com/))
+[Tailwind](https://www.npmjs.com/))
